@@ -6,4 +6,4 @@
 
 ### Architecture
 
-![Architecture](/Pics/Architecture Graph.png)
+![Architecture](/Pics/ArchitectureGraph.png)
